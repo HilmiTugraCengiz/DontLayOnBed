@@ -1,0 +1,10 @@
+Web sitesi, modern ve şık bir tasarıma sahip ve çeşitli ürün kategorilerini sergilemek için kullanılabilir. Tasarım, kullanıcıların rahatlıkla gezinebilmeleri ve ürünleri kolayca bulabilmeleri için optimize edilmiştir. İşte web sitesinin bazı özellikleri:
+
+Üst Menü ve Arama Çubuğu: Web sitesinin üst kısmında, sıkça sorulan sorulara, yardım ve destek bölümlerine erişim sağlayan bir üst menü bulunmaktadır. Ayrıca, kullanıcılar ürünleri aramak için kullanabilecekleri bir arama çubuğu da mevcuttur.
+Kategori Navigasyonu: Sol tarafta bulunan kategori menüsü, kullanıcıların istedikleri ürün kategorisine hızlıca ulaşmalarını sağlar. Kategoriler arasında "araba", "giyim", "beyaz eşya" ve "oyuncak" gibi seçenekler bulunmaktadır.
+Ürün Vitrini ve Tanıtımlar: Ana sayfada ve diğer sayfalarda, öne çıkan ürünler ve kampanyalar için görseller ve açıklamalar bulunmaktadır. Bu bölümler, kullanıcıların ilgisini çekmek ve satın alma kararı vermelerini teşvik etmek için tasarlanmıştır.
+Ürünlerin Sergilenmesi: Web sitesinde çeşitli ürünlerin resimleri ve fiyatları bulunmaktadır. Kullanıcılar, her ürünün ayrıntılarına ve sepete ekleme seçeneklerine kolayca erişebilirler.
+Bilgilendirici Özellikler: Web sitesi, kaliteli ürünler, ücretsiz kargo, iade imkanı ve 7/24 müşteri desteği gibi avantajları vurgulamaktadır. Bu özellikler, kullanıcıların güvenlerini kazanmak için önemlidir.
+E-posta Abonelikleri: Kullanıcılar, yeniliklerden haberdar olmak için e-posta abonelikleriyle siteye kayıt olabilirler. Bu şekilde, yeni ürünler ve kampanyalar hakkında bilgilendirme alabilirler.
+Footer Bölümü: Web sitesinin alt kısmında, iletişim bilgileri ve hızlı erişim bağlantıları bulunmaktadır. Ayrıca, web sitesinin kimin tarafından tasarlandığı ve dağıtıldığı bilgileri de mevcuttur.
+Bu web sitesi, çeşitli ürünlerin satışını yapmak ve çevrimiçi alışveriş deneyimini kullanıcılara kolaylaştırmak için ideal bir platformdur.
